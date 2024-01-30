@@ -1,5 +1,5 @@
 {
-    "name": "yosuite/laravel-medialibrary-mongodb",
+    "name": "xpeedstudio/laravel-medialibrary-mongodb",
     "description": "Associate files with Eloquent models",
     "license": "MIT",
     "version": "11.0.0",
