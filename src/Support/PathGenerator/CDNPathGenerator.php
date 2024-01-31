@@ -5,7 +5,7 @@ namespace Spatie\MediaLibrary\Support\PathGenerator;
 use \Spatie\MediaLibrary\MediaCollections\Models\Media;
 use \Spatie\MediaLibrary\Support\PathGenerator\PathGenerator as BasePathGenerator;
 
-class CustomPathGenerator implements BasePathGenerator
+class CDNPathGenerator implements BasePathGenerator
 {
     /**
      * Get the path for the given media, relative to the root storage path.
